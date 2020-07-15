@@ -101,18 +101,6 @@
   Link: </testblog/component---src-templates-post-template-js-60955cc60eff050f552a.js>; rel=preload; as=script
   Link: </testblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </testblog/page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
-/testblog/posts/the-origins-of-social-stationery-lettering
-  Link: </testblog/webpack-runtime-f16ff29160c9750f7fb9.js>; rel=preload; as=script
-  Link: </testblog/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </testblog/framework-07edda91b2a10381f75f.js>; rel=preload; as=script
-  Link: </testblog/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </testblog/app-bec56e3f71d277835c55.js>; rel=preload; as=script
-  Link: </testblog/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </testblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-cbec047e459414f9cfea.js>; rel=preload; as=script
-  Link: </testblog/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </testblog/component---src-templates-post-template-js-60955cc60eff050f552a.js>; rel=preload; as=script
-  Link: </testblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </testblog/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
 /testblog/posts/a-brief-history-of-typography
   Link: </testblog/webpack-runtime-f16ff29160c9750f7fb9.js>; rel=preload; as=script
   Link: </testblog/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -125,6 +113,18 @@
   Link: </testblog/component---src-templates-post-template-js-60955cc60eff050f552a.js>; rel=preload; as=script
   Link: </testblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </testblog/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/testblog/posts/the-origins-of-social-stationery-lettering
+  Link: </testblog/webpack-runtime-f16ff29160c9750f7fb9.js>; rel=preload; as=script
+  Link: </testblog/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </testblog/framework-07edda91b2a10381f75f.js>; rel=preload; as=script
+  Link: </testblog/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </testblog/app-bec56e3f71d277835c55.js>; rel=preload; as=script
+  Link: </testblog/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </testblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-cbec047e459414f9cfea.js>; rel=preload; as=script
+  Link: </testblog/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </testblog/component---src-templates-post-template-js-60955cc60eff050f552a.js>; rel=preload; as=script
+  Link: </testblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </testblog/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
 /testblog/posts/the-birth-of-movable-type
   Link: </testblog/webpack-runtime-f16ff29160c9750f7fb9.js>; rel=preload; as=script
   Link: </testblog/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
